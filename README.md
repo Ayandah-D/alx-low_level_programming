@@ -9,3 +9,4 @@
 | [`0x02-functions_nested_loops`] | It aims to learn about header files, functions, loops and nested loops in **C language** |
 | [`0x03-debugging`] | It aims to learn how to debug in **C language** |
 | [`0x04-more_functions_nested_loop`] | It aims to learn about nested loops in **C language** |
+| [`0x07-pointers_arrays_strings`]| It aims to learn more about pointers, arrays and strings in **C language** |
