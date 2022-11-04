@@ -1,9 +1,5 @@
-# 0x09. C - Static libraries
+## Learning Objectives
+##### At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-## Project
-
-| Filename | Description |
-| -------- | ----------- |
-| `libmy.a` | Static library that contains a lot of functions |
-| `create_static_lib.sh` | Script that creates a static library called `liball.a` from all the `.c` files that are in the current directory |
-| `main.h` | Header file that contains all the prototypes of the used functions |
+##### What is a static library, how does it work, how to create one, and how to use it
+##### Basic usage of ar, ranlib, nm
